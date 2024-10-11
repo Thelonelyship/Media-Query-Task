@@ -65,7 +65,7 @@ body{
         
     }
     .top{
-        background-color: beige;
+        background-color: grey;
     }
 }
 
@@ -80,6 +80,6 @@ body{
         height: 200px;
     }
     .top{
-        background-color: bisque;
+        background-color: grey;
     }
 }
